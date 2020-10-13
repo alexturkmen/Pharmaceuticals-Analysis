@@ -1,6 +1,6 @@
 # matplotlib-challenge
 # Notes
-1. All the instructions ergarding the coding are within the Turkmen-pymaceuticals.ipynb file.
+1. All the instructions regarding the coding are within the Turkmen-pymaceuticals.ipynb file.
 
 # Technical Skills Required for this assignment
 1. Python
