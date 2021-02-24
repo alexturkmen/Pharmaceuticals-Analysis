@@ -1,4 +1,3 @@
-# matplotlib-challenge
 # Notes
 1. All the instructions regarding the coding are within the Turkmen-pymaceuticals.ipynb file.
 
